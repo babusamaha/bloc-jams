@@ -64,6 +64,13 @@ html {
      color: rgb(233,50,117);
  }
 
+.navbar-link:active {
+    
+   background-color: white;
+   color:rgb(233,50,117);
+}
+
+
 .hero-content {
      position: relative; /* positioning will be explained in a resource */
      min-height: 600px;  /* hero content element must be _at least_ 600 pixels */
